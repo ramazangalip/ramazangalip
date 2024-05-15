@@ -4,7 +4,7 @@ Hi I am Ramazan Said Galip.I have been interested in software since 2021. So far
 
 Linkedin URL:https://www.linkedin.com/in/ramazan-said-galip-330956243/
 
-Personel Website URL:https://ramazansaidgalip.vercel.app/
+Personel Website URL:https://ramazan-said-galip.netlify.app/
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=ramazangalip&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
